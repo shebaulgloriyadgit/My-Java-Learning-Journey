@@ -15,6 +15,6 @@
 - What is Variable?
 - What is DataTypes?
        data_type  variable_name = Value
--What are the Primitive Datatypes?
+- What are the Primitive Datatypes?
      byte, short, int, long, float, double, boolean, char
   
