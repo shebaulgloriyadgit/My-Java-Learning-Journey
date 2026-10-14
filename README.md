@@ -16,5 +16,9 @@
 - What is DataTypes?
        data_type  variable_name = Value
 - What are the Primitive Datatypes?
-     byte, short, int, long, float, double, boolean, char
+       byte, short, int, long, float, double, boolean, char
+- Non-primitive Datatypes
+       String is special Datatype.
+       List of character is string character.
+       String str = "test";
   
