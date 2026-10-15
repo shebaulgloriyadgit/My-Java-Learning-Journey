@@ -21,4 +21,16 @@
        String is special Datatype.
        List of character is string character.
        String str = "test";
+
+  ### Day 3
+- Operators
+- Arithmetic Operators(+, -, *, /, %)
+- Unary Operator
+      Increment - Prefix Notation (++x, --x)
+      Decrement - Postfix Notation (x++, x--)
+- Relational Operator (<, >, <=, >=, ==, !=)
+- Logical Operator (NOT, AND, OR)
+- Ternary Operator (result = (condition)? expression1: expression2;)
+- Type Casting
+      Type casting into two main categories: (Implicit Typecasting, Explicit Typecasting)
   
